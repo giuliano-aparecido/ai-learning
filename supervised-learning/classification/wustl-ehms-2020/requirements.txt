@@ -1,0 +1,5 @@
+scikit-learn>=1.5
+pandas
+numpy
+kagglehub
+ipykernel
