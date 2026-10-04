@@ -3,3 +3,4 @@ pandas
 numpy
 kagglehub
 ipykernel
+matplotlib>=3.5
